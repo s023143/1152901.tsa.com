@@ -119,11 +119,9 @@ a{
 }
 
 
-img[src="logo.png"]{
-  margin-top: 7.33px;
-  height: 60px;
-  width: auto;
-  margin-left: 7.33px;
+img {
+  width: 100px;
+  height: 100px;
 }
 
 .container {
